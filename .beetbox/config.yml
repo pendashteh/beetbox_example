@@ -16,8 +16,8 @@ drupal_install_site: yes
 drupal_account_name: admin
 drupal_account_pass: admin
 
-# Beetbox debug.
-beet_debug: yes
+# Beetbox debug. Should only be used when building the box not for using beetbox
+#beet_debug: yes
 
 # Beetbox tests.
 beet_run_tests: yes
